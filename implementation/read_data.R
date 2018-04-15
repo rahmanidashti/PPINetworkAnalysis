@@ -2,6 +2,8 @@
 # in relative path will be use of setwe() to set current folder for
 # Working Directory
 
+# Created by HosseinAli (Saeed) Rahmani
+
 # Load igraph package to get adjacency matrix and graph object in igraph
 library(igraph)
 
