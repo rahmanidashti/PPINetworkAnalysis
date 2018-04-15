@@ -1,2 +1,2 @@
-# ppi-network-analysis
+# Protein-Protein Intraction Network Analysis
 Comparison of Tumor and Normal Cells Protein-Protein Interaction Network Parameters
