@@ -1,4 +1,5 @@
 # This file used igraph package to analysis graph and the related parameter
+# Created by HosseinAli (Saeed) Rahmani
 
 # Load igraph package to calculate parameter that implement in igraph
 library(igraph)
