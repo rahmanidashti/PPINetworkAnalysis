@@ -9,5 +9,8 @@ Rahman, KM Taufiqur, et al. "Changes in protein interaction networks between nor
 ## Implementation
 The analysis is implemented in R with iGraph lib.
 
+## Cite
+Rahmani Dashti, H. A., Khanteymoori, A. R., & Olyaee, M., Comparison of Tumor and Normal Cells Protein-Protein Interaction Network Parameters, the 6th Iranian Conference on Bioinformatics, University of Tehran, Tehran, Iran, 2016.
+
 ## Webpage
 https://rahmanidashti.github.io/PPINetworkAnalysis/
