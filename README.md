@@ -4,7 +4,9 @@ Comparison of Tumor and Normal Cells Protein-Protein Interaction Network Paramet
 ## Dataset
 The dataset originally is from the following paper, but we had a preprocessing and split it into the different CSV files based on the normal and cancer cells.
 
-Rahman, KM Taufiqur, et al. "Changes in protein interaction networks between normal and cancer conditions: Total chaos or ordered disorder?", Network Biology, 2013
+Rahman, KM Taufiqur, et al. "Changes in protein interaction networks between normal and cancer conditions: Total chaos or ordered disorder?", Network Biology, 2013 [(link)](http://www.iaees.org/publications/journals/nb/articles/2013-3(1)/2-Islam-Abstract.asp)
+
+Islam, Md Fahmid, et al. "Comparative analysis of differential network modularity in tissue specific normal and cancer protein interaction networks." Journal of clinical bioinformatics, 2013 
 
 ## Implementation
 The analysis is implemented in R with iGraph lib.
