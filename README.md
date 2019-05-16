@@ -12,7 +12,7 @@ Islam, Md Fahmid, et al. "Comparative analysis of differential network modularit
 The analysis is implemented in R with iGraph lib.
 
 ## Cite
-**Rahmani Dashti, H. A.**, Khanteymoori, A. R., & Olyaee, M., Comparison of Tumor and Normal Cells Protein-Protein Interaction Network Parameters, the 6th Iranian Conference on Bioinformatics, University of Tehran, Tehran, Iran, 2016 [(link)](https://www.researchgate.net/publication/312072545_Comparison_of_Tumor_and_Normal_Cells_Protein-Protein_Interaction_Network_Parameters)
+**Rahmani, H. A.**, Khanteymoori, A. R., & Olyaee, M., Comparison of Tumor and Normal Cells Protein-Protein Interaction Network Parameters, the 6th Iranian Conference on Bioinformatics, University of Tehran, Tehran, Iran, 2016 [(link)](https://www.researchgate.net/publication/312072545_Comparison_of_Tumor_and_Normal_Cells_Protein-Protein_Interaction_Network_Parameters)
 
 ## Webpage
 [Protein-Protein Interaction Network Analysis (Normal and Cancerous cells)](https://rahmanidashti.github.io/PPINetworkAnalysis/)
